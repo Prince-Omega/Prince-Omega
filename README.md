@@ -1,36 +1,57 @@
-# Hi there, I'm Prince Omega 👋
+<h1 align="center">Hi 👋, I'm Prince Omega</h1>
 
-## About Me
-I'm an HND student passionate about software development, data analysis, and technology. I enjoy learning new programming skills and building projects that solve real-world problems.
+<h3 align="center">HND Student | Aspiring Software Developer | Python & Web Development Enthusiast</h3>
 
-## 🌱 Currently Learning
-- Python
-- Git & GitHub
-- System Analysis and Design
-- Database Management
-- Web Development
-- Machine learning 
-- Cloud computing 
-- AI Engineering 
+---
 
-## 💻 Skills
-- Python
-- HTML
-- Microsoft Office
-- Git & GitHub
-- JavaScript 
-- Java
-- VB.Net 
-- CSS
-- PHP
-- Problem Solving
+## 👨‍💻 About Me
 
-## 🎯 Goals
-- Build useful software projects
-- Contribute to open-source projects
-- Continuously improve my programming skills
+- 🎓 HND Student passionate about technology and software development.
+- 🌱 Currently learning **Python, HTML, CSS, Git & GitHub, System Analysis and Design, and Database Management.**
+- 💡 I enjoy building projects that solve real-world problems.
+- 🎯 My goal is to become a skilled Software Developer and contribute to open-source projects.
 
-## 📫 Contact
-Feel free to connect with me here on GitHub!
+---
 
-⭐ Thanks for visiting my profile!
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Omega&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Omega&layout=compact)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prince-Omega)
+
+---
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/Prince-Omega
+- Email: **jeftarhtruyap@gmail.com**
+
+---
+
+## 🚀 Goals for 2026
+
+- ✅ Improve my Python skills
+- ✅ Build web development projects
+- ✅ Learn data analysis
+- ✅ Contribute to open-source projects
+- ✅ Build a strong software development portfolio
+
+---
+
+⭐ **Thanks for visiting my profile!**
