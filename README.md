@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Prince Omega 👋
 
-<!--
-**Prince-Omega/Prince-Omega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an HND student passionate about software development, data analysis, and technology. I enjoy learning new programming skills and building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python
+- Git & GitHub
+- System Analysis and Design
+- Database Management
+- Web Development
+- Machine learning 
+- Cloud computing 
+- AI Engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python
+- HTML
+- Microsoft Office
+- Git & GitHub
+- JavaScript 
+- Java
+- VB.Net 
+- CSS
+- PHP
+- Problem Solving
+
+## 🎯 Goals
+- Build useful software projects
+- Contribute to open-source projects
+- Continuously improve my programming skills
+
+## 📫 Contact
+Feel free to connect with me here on GitHub!
+
+⭐ Thanks for visiting my profile!
